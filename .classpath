@@ -6,6 +6,15 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Day3"/>
+	<classpathentry kind="src" path="AAForSubmission"/>
+	<classpathentry kind="src" path="Day4"/>
+	<classpathentry kind="src" path="Day5"/>
+	<classpathentry kind="src" path="Day6"/>
+	<classpathentry kind="src" path="Day7"/>
+	<classpathentry kind="src" path="Day8"/>
+	<classpathentry kind="src" path="Day9"/>
+	<classpathentry kind="src" path="Day10"/>
 	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Selenium/Jar/selenium-server-standalone-3.4.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Selenium/Jar/lib/cglib-nodep-3.2.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Selenium/Jar/lib/commons-codec-1.10.jar"/>
@@ -39,5 +48,7 @@
 	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Selenium/Jar/lib/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Selenium/Jar/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Selenium/Jar/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/John/eclipse-workspace/Libs/JExcelAPI/jxl-2.6.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
